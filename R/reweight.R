@@ -1,5 +1,3 @@
-library(metadynminer)
-
 #' Calculate free energy surface from metadynamics by reweighting algorithm
 #' by Tiwary and Parrinello, J. Phys. Chem. B (2015) <doi:10.1021/jp504920s>
 #'
